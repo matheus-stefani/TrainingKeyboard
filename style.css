@@ -3,9 +3,21 @@
 }
 
 .green{
-    color: green;
+    background-color: rgb(151, 255, 151);
 }
 
 .red{
-    color: red
+    background-color: rgb(255, 184, 184)
+}
+
+label{
+    margin: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: large;
+}
+
+.main{
+    width: 80%;
+   
 }
